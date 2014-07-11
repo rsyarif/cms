@@ -9,4 +9,4 @@ testing('one.. two..')
 testing('three..')
 testing(', and four ...')
 
-print 'testing branchin'
+print 'testing branching'
